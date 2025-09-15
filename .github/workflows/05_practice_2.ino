@@ -1,4 +1,4 @@
-#define LED_PIN 7  // GPIO 7번 핀에 LED 연결
+#define LED_PIN 7
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
